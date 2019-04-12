@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/live-sports-news/static/css/main.b37e8c97.chunk.css"
   },
   {
-    "revision": "fe3ff01fe43ef8f550282f2e5bdd7ffa",
+    "revision": "71a7b65b51d6c96c02f4c0dc16b8937b",
     "url": "/live-sports-news/index.html"
   }
 ];
