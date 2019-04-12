@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/live-sports-news/precache-manifest.69dacc099b572a2ba3d0d8e5393f2048.js"
+  "/live-sports-news/precache-manifest.d7318fc302ad13e8db9bcc9b8a37e209.js"
 );
 
 workbox.clientsClaim();
